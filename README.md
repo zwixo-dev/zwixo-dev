@@ -1,5 +1,5 @@
 # ⚔️ About Me:
-I’m Zwixo half human, half code.<br>My room is chaos, my mind is logic, and my code? Somewhere in between.<br>I don’t debug I negotiate with my errors until they give up.<br>And if you know what’s crazy, then you should be crazy too !
+I’m Zouine Saad half human, half code.<br>My room is chaos, my mind is logic, and my code? Somewhere in between.<br>I don’t debug I negotiate with my errors until they give up.<br>And if you know what’s crazy, then you should be crazy too !
 
 
 ## 🌐 Socials:
