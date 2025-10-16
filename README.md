@@ -1,40 +1,14 @@
-<h2 align="left">HI 👋 ! I'M ZOUINE SAAD : )</h2>
+# ⚔️ About Me:
+I’m Zwixo half human, half code.<br>My room is chaos, my mind is logic, and my code? Somewhere in between.<br>I don’t debug I negotiate with my errors until they give up.<br>And if you know what’s crazy, then you should be crazy too !
 
-###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32" alt="html5 logo"  />
-  <img width="87" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="32" alt="css3 logo"  />
-  <img width="87" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" alt="javascript logo"  />
-  <img width="87" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32" alt="react logo"  />
-  <img width="87" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="32" alt="nodejs logo"  />
-  <img width="87" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="32" alt="postgresql logo"  />
-  <img width="87" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="32" alt="bootstrap logo"  />
-</div>
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discordapp.com/users/1096213567503597608)
 
-###
+# 🛡️ Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-<br clear="both">
-
-<div align="left">
-</div>
-
-###
-
-<img align="right" height="150" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif?cid=ecf05e47jymofnu2cg6heikwq4je46bwvzuu1wyrclrsc6cr&ep=v1_gifs_related&rid=giphy.gif&ct=g"  />
-
-###
-
-<div align="left">
-  <a href="https://discordapp.com/users/1096213567503597608" target="_blank" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="88" height="40" alt="discord logo"  />
-  </a>
-</div>
-
-###
+---
+[![](https://visitcount.itsvg.in/api?id=zwixo-dev&icon=0&color=0)](https://visitcount.itsvg.in)
+![Crazy GIF](https://media.giphy.com/media/WtPYX7utC1J7GuLgOC/giphy.gif)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
