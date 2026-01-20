@@ -10,5 +10,5 @@ I’m Zouine Saad half human, half code.<br>My room is chaos, my mind is logic, 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=zwixo-dev&icon=0&color=0)](https://visitcount.itsvg.in)
-![Crazy GIF](https://media.giphy.com/media/jOOu11i14GPQblobN5/giphy.gif)
+<div style="display: flex; align-items: center; gap: 10px;"> <img src="https://media.giphy.com/media/jOOu11i14GPQblobN5/giphy.gif" alt="Crazy GIF"> <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2V6MjByYmhoZ3IzeHRtcTJheHU2ZmU0cHBxeXc1a2JrcnVraGc1eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/mCghJHWGDI24DoirMI/giphy.gif" alt="New GIF"> </div> 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
